@@ -1,3 +1,5 @@
+![this is an image](Be_Epic_white_05.png)
+
 1.	Create your design in adobe illustrator (or another design software).  Note the following defaults for laser cutting and engraving
 a.	Laser Cutting: Red (RGB: 255, 0, 0) vector lines with a width of 0.001” 
 b.	Laser Engraving: Black (RGB 255, 255, 255) raster images / text / etc 

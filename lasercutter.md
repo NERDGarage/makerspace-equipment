@@ -25,4 +25,6 @@ b.	Laser Engraving: Black (RGB 255, 255, 255) raster images / text / etc
 <insert screen shot of VLS software>
 11.	Open Lid of Laser and verify the extent of the design (minimum upper left and lower right of the design to ensure the laser is cutting in the correct area on the material and not off of the material) using the ‘Focus View’ and opening the lid of the laser cutter to enable the red pointing laser beam.  
 12.	Laser cut using the large Green Triangle
+  
+![this is an image](Be_Epic_white_05.png)
 

@@ -17,6 +17,7 @@ b.	Laser Engraving: Black (RGB 255, 255, 255) raster images / text / etc
 
 7.	In the VLS software select the material type and thickness in settings, hit apply
 <insert screen shot of settings and setting dialog>
+
 8.	Verify settings (laser power, speed, ppi, and z-axis) are correct by reviewing the manual control tab
 <insert image of tab with laser power etc…
 9.	Turn on the laser with circle button

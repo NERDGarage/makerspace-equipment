@@ -2,14 +2,19 @@
 a.	Laser Cutting: Red (RGB: 255, 0, 0) vector lines with a width of 0.001” 
 b.	Laser Engraving: Black (RGB 255, 255, 255) raster images / text / etc 
 <Insert image of default file here in adobe illustrator>
+
 2.	Print your design from the file menu in illustrator
 <insert screen shot of print from file menu or just file > print > etc..>
+
 3.	In print dialog menu ensure that V6.60 driver is selected, and orientation of design is correct then ‘Print’
 <insert screen shot of dialog highlighting driver name and ‘landscape area’
+
 4.	Open VLS software
 <insert image of icon>
+
 5.	Turn on BOFA fume extractor
 6.	Next insert material into Laser Cutter (note type and thickness of material)
+
 7.	In the VLS software select the material type and thickness in settings, hit apply
 <insert screen shot of settings and setting dialog>
 8.	Verify settings (laser power, speed, ppi, and z-axis) are correct by reviewing the manual control tab

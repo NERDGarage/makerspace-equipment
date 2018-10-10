@@ -19,11 +19,15 @@ b.	Laser Engraving: Black (RGB 255, 255, 255) raster images / text / etc
 <insert screen shot of settings and setting dialog>
 
 8.	Verify settings (laser power, speed, ppi, and z-axis) are correct by reviewing the manual control tab
-<insert image of tab with laser power etc…
+<insert image of tab with laser power etc…>
+
 9.	Turn on the laser with circle button
+
 10.	Next move design to desired location on the laser cutting bed
 <insert screen shot of VLS software>
+
 11.	Open Lid of Laser and verify the extent of the design (minimum upper left and lower right of the design to ensure the laser is cutting in the correct area on the material and not off of the material) using the ‘Focus View’ and opening the lid of the laser cutter to enable the red pointing laser beam.  
+
 12.	Laser cut using the large Green Triangle
   
 ![this is an image](Be_Epic_white_05.png)

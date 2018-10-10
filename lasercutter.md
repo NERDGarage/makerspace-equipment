@@ -1,5 +1,33 @@
 ![this is an image](Be_Epic_white_05.png)
 
+- A bullet list item
+- Second item
+
+  - A sub item
+
+- Spacing between items creates separate lists
+
+- Third item
+
+1) An enumerated list item
+
+2) Second item
+
+   a) Sub item that goes on at length and thus needs
+      to be wrapped. Note the indentation that must
+      match the beginning of the text, not the 
+      enumerator.
+
+      i) List items can even include
+
+         paragraph breaks.
+
+3) Third item
+
+#) Another enumerated list item
+
+#) Second item
+
 1.	Create your design in adobe illustrator (or another design software).  Note the following defaults for laser cutting and engraving
 a.	Laser Cutting: Red (RGB: 255, 0, 0) vector lines with a width of 0.001” 
 b.	Laser Engraving: Black (RGB 255, 255, 255) raster images / text / etc 
